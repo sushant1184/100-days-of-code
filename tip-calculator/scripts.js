@@ -6,13 +6,17 @@ var perPerson = document.querySelector("#per-person");
 
 calculateTip = function() {
     
-    var tipPercentage = parseFloat(percentTip.value/100, 2);
+    var tipPercentage = parseInt(percentTip.value, 10)/100;
 
-    var tipAmount = totalAmount.value * tipPercentage;
+    var amountValue = parseFloat(amount.value, 2)
 
-    var perPersonTip = (tipAmount / people.value).toFixed(2);
+    var tipAmount = amountValue * tipPercentage;
 
-    perPerson.textContent = "Each Person gets ₹" + perPersonTip + " tip"
+    var total = amountValue + tipAmount;
+
+    var perPersonAmount = (total / parseInt(people.value, 10));
+
+    perPerson.textContent = "Each Person owes ₹" + perPersonAmount.toFixed(2).toString();
 
 }
 
