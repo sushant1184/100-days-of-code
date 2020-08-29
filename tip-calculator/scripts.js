@@ -12,7 +12,7 @@ calculateTip = function() {
 
     var perPersonTip = (tipAmount / people.value).toFixed(2);
 
-    perPerson.textContent = "Each Person gets $" + perPersonTip + " tip"
+    perPerson.textContent = "Each Person gets ₹" + perPersonTip + " tip"
 
 }
 
