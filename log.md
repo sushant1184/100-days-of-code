@@ -37,3 +37,10 @@ Day 4: 31 August 2020
 Today's Progress: Completed the DOM Injection & Traversal course in GoMakeThings. Started working on lazy loading images project. Learnt about DOM ready, traversing the DOM, XSS attacks, Viewport heights and width.
 
 Thoughts: Need to practice more about traversing DOM, XSS attacks and DOM injection
+
+Day 5: 2 September 2020
+
+Today's Progress: Completed the lazy loading images project and started the Browser storage course in 
+GoMakeThings
+
+Thoughts: Yesterday on 1st September skipped a day due to procrastination. Need to make sure to maintain the consistency and avoid the laziness.
