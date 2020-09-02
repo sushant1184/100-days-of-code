@@ -1,30 +1,39 @@
-# 100 Days Of Code - Log
+Day 0: 27 August 2020
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+Today's Progress:Completed the Javascript DOM Manipulation course in GoMakeThings. Completed the accordion project.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Thoughts:Took more than required time to complete the functionality.But still managed to complete the project.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+#100DaysOfCode
+ 
+Day 1: 28 August 2020
 
-**Link to work:** [Calculator App](http://www.example.com)
+Today's Progress:Completed the Javascript Strings and Numbers course in GoMakeThings. Started working on small tip calculator project
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Thoughts: Learnt about Math function & string methods in details
 
 
-### Day 1: June 27, Monday
+#100DaysOfCode 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+Day 2: 29 August 2020
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+Progress: Completed the small project for tip calculator. 
+Completed the Arrays & Objects course from GMT. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Thoughts: Learnt about the array methods and higher order functions like map, filter & reduce. Learnt about javascript objects
+methods and difference between object.assign and deepassign methods. Need to learn more about higher order functions
+
+#100DaysOfCode 
+
+Day 3: 30 August 2020
+
+Progress: Coded for almost 3 hrs continuously today.Completed two small projects first adopting dogs project using array methods and objects and second refactoring lazy load plugin for backward compatibility with old browsers.
+Completed the variables & functions scope course in GMT. Learnt about variable and function scopes, hoisting, keeping variables away from global scopes, es6 arrow functions,let,const, default arguments, rest parameter
+
+Thoughts : A truly hectic day comes to an end
+
+Day 4: 31 August 2020
+
+Today's Progress: Completed the DOM Injection & Traversal course in GoMakeThings. Started working on lazy loading images project. Learnt about DOM ready, traversing the DOM, XSS attacks, Viewport heights and width.
+
+Thoughts: Need to practice more about traversing DOM, XSS attacks and DOM injection
