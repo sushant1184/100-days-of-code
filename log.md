@@ -44,3 +44,9 @@ Today's Progress: Completed the lazy loading images project and started the Brow
 GoMakeThings
 
 Thoughts: Yesterday on 1st September skipped a day due to procrastination. Need to make sure to maintain the consistency and avoid the laziness.
+
+Day 6: 3 Spetember 2020
+
+Today's Progress: Completed the browser storage course in GoMakeThings. Started working on the small localstorage project.
+
+Thoughts: Coded for almost one hour (57 mins).
